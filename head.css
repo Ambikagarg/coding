@@ -15,7 +15,8 @@ body{
 	float: right;
 	}
 .tm-nav ul li{
-	display:inline-block; 
+	display:inline-block;
+	color: white;
 }
 .tm-nav ul li a{
 	padding: 20px 20px;	
