@@ -8,12 +8,15 @@
 	font-size: 30px;
 	font-family: Englebert;
 	float: left;
-	color: blue;
 	padding-top: 30px;
 	padding-left: 30px;
 }
+.imge{
+	border-radius: 10px;
+	max-width: 100%;
+}
 body{
-	background-image: url('http://1.bp.blogspot.com/-XoNUMMFx0N0/UEoYrMimEtI/AAAAAAAASKY/QDkJUTOU24Y/s1600/Flowers+background+desktop+wallpapers.+(2).jpg');
+	background-image: url('Pictures/introduction.JPG');
 	background-size: cover;
 }
 .tm-logo{
